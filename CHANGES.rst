@@ -1,7 +1,7 @@
 repoze.vhm Changelog
 ====================
 
-0.15 (unreleased)
+0.15 (2018-10-10)
 -----------------
 
 - Add support for testing on Travis.
