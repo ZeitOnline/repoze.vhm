@@ -1,10 +1,10 @@
 repoze.vhm Changelog
 ====================
 
-0.16 (unreleased)
+0.15.py3 (2020-01-02)
 -----------------
 
-- Nothing changed yet.
+- Build a python3 tagged release.
 
 
 0.15 (2018-10-10)
