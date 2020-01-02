@@ -1,7 +1,7 @@
 repoze.vhm Changelog
 ====================
 
-0.15.py3 (2020-01-02)
+0.15+py3 (2020-01-02)
 -----------------
 
 - Build a python3 tagged release.
